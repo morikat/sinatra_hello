@@ -1,2 +1,4 @@
 # sinatra_hello
 
+test
+
